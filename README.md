@@ -15,7 +15,7 @@ Please read the attached report for a detailed explanation of the project and to
 -----
 ## Acknowledgements
 We thank [Morten Dahl](https://mortendahl.github.io/) for the helpful blogs and resources on secret sharing.
-We also thank [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) for his continued guidance throughout the project.
--------
+
+We also thank [Prof. Manoj Prabhakaran](https://www.cse.iitb.ac.in/~mp/) for invaluable guidance throughout the project.
 
 
