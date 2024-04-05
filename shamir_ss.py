@@ -78,7 +78,7 @@ if __name__ == "__main__":
         time_normal.append(execution_time)
 
     plt.plot(secret_array, time_fast, label='fast_shamir')
-    # plt.plot(secret_array, time_normal, label='shamir')
+    plt.plot(secret_array, time_normal, label='shamir')
     plt.plot(secret_array, time_ramp, label='ramp_sharing')
     plt.xlabel('Number of Secrets')
     plt.ylabel('Execution Time (seconds)')
